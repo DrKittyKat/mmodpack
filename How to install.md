@@ -3,9 +3,9 @@
 
 
 ## Step one: Add the instance
-So, you have to add an instance to your prefered launcher of choice. I personally use PrismLauncher and I know that most people have the curse launcher installed, but I'm going to guide through the process for the official launcher. The process should be largely the same any way you do it. First, add a new installation:  
-![[Pasted image 20221110024244.png]]
+So, you have to add an instance to your prefered launcher of choice. I personally use PrismLauncher and I know that most people have the curse launcher installed, but I'm going to guide through the process for the official launcher. The process should be largely the same any way you do it. 
 
+First, add a new installation by going to the 'Installations' tab and then clicking 'New installation'.
 
 Then, you need to change a few more things:  
 - Set the version to `relese 1.7.10`
