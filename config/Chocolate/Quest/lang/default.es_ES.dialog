@@ -92,10 +92,6 @@ Se ha divisado un grupo de zombies al este.
 Ve a echar un ojo si estas interesado, pero andate
 con cuidado, estan bien equipados.
 #####
-@name:orcChiefBull
-@prompt:Donde puedo encontrarlo?
-Es un toro enorme, puedes encontrarlo a 200 metros al norte.
-#####
 @name:helloMarket
 @prompt:helloMarket
 Hola viajero, bienvenido al mercado.
@@ -120,11 +116,6 @@ La Inquisicion de Diurna fue fundada 1000 aÃ±os atras por las
 hermanas de rey Otbrael en el nombre de Diurna, diosa de la luz.
 Nuestra mision es luchar contra las fuerzas de la noche y descubrir
 la razon de su aparicion.
-#####
-@name:orcChiefTurtle
-@prompt:Donde puedo encontrarla?
-Es una torrtuga gigante, la ultima vez que la vimos estaba a
-unos 200 metross al este de aqui.
 #####
 @name:huntedMonster
 @prompt:Ya lo he cazado!
@@ -293,10 +284,6 @@ Felicidades, has completado la arena!
 Bienvenido al mecado viajante.
 Puedo ofrecerte algo?
 #####
-@name:orcChiefShelob
-@prompt:Donde puedo encontrarlo?
-Es una araÃ±a gigante, la encontraras a unos 200 metros hacia el sur.
-#####
 @name:loreOrc
 @prompt:Hablame de los orcos
 Los trasgos y enanos fueron las primeras especies conocidas en habitar la superficie
@@ -367,11 +354,6 @@ Ven a verme otra vez cuando necesites encantar algo.
 @name:horseBad
 @prompt:Dame un burro 16[minecraft:emerald]
 Ahi tienes tu burro
-#####
-@name:orcChiefSlime
-@prompt:Donde puedo encontrarlo?
-Es una rana babosa, ve con cuidado es muy agresiva.
-La encontraras a unos 200 metros al oeste.
 #####
 @name:witchRottenFlesh
 @prompt:Puedo ayudarte?
@@ -511,4 +493,38 @@ Puedo ayudarte en tus viajes por solo 32[minecraft:emerald]
 @name:itemUpgrade
 @prompt:Mejora mi equipo
 (@name stares at you)
+#####
+@name:orcChiefSlime
+@prompt:Donde puedo encontrarlo?
+Es una rana babosa, ve con cuidado es muy agresiva.
+La encontraras a unos 200 metros al oeste.
+Si me perrmites el consejo, intenta usar arrmas con area de efecto,
+te ayudarran a acabar con las babas pequeñas rrapidamente, de lo 
+contrario estas curaran a la rrana.
+#####
+@name:orcChiefBull
+@prompt:Donde puedo encontrarlo?
+Es un toro enorme, puedes encontrarlo a 200 metros al norte.
+No es excesivamente fuerrte, no deberia causarte demasiados poblemas si vas
+arrmado decentemente y peleas con atención.
+Si puedes intenta golpererle en el lomo, si se lo consigues dañarr aumentaras
+la cantidad de cuero obtenido.
+#####
+@name:orcChiefTurtle
+@prompt:Donde puedo encontrarla?
+Es una torrtuga gigante, la ultima vez que la vimos estaba a
+unos 200 metross al este de aqui.
+Para derrotar a la tortuga debes golpearla en la cabeza hasta que la esconda,
+de lo contrario tendra disponible una regeneracion extrema.
+También puedes golpearle en las patas para aumentar el número de objetos que
+tirará.
+#####
+@name:orcChiefShelob
+@prompt:Donde puedo encontrarlo?
+Es una araña gigante, la encontraras a unos 200 metros hacia el sur.
+Ten cuidado con sus aguijones, intenta esquivarrlos a toda costa, la arraña 
+no es especialmente resistente contra ataques a distancia, asi que si dispones
+de algun arrma de ataque a distancia te ayudara bastante en la pelea. 
+También te lanzara veneno asi que a ser posible, llevate un cubo de leche.
+Una cosa más, si te atrapa con su telaraña agachate para librarte de ella.
 #####

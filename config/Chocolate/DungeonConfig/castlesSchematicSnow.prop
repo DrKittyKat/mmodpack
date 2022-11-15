@@ -24,7 +24,7 @@ builder = templateSurface
 #Special data for templateSurface
 
 #folder: the folder containing the templates
-folder = Building/snowCastles
+folder = DungeonConfig/Building/snowCastles
 
 #underGroundOffset: how many block will be used under the ground.
 underGroundOffset = 8

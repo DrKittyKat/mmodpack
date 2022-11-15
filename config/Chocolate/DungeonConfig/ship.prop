@@ -21,7 +21,7 @@ builder = templateFloating
 #Special data for templateFloating
 
 #folder: the folder containing the templates
-folder = Building/ships
+folder = DungeonConfig/Building/ships
 
 #posY: the height to spawn the building
 #60(Overworld water layer(63) -3 blocks submerged into water)
